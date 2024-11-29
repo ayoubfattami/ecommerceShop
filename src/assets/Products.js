@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    name: "Galaxy S20 plus",
+    price: 2400,
+    systeme: "android",
+    image: "src/assets/imgArticle/galaxys20plus.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit..",
+  },
+  {
+    id: 2,
+    name: "Huawei p40 black",
+    price: 3000,
+    systeme: "android",
+    image: "src/assets/imgArticle/huaweip40black.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit..",
+  },
+  {
+    id: 3,
+    name: "Huawei p50 black",
+    price: 2000,
+    systeme: "android",
+    image: "src/assets/imgArticle/huaweip50black.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit..",
+  },
+  {
+    id: 4,
+    name: "Huaweip 50 Gold",
+    price: 15000,
+    systeme: "android",
+    image: "src/assets/imgArticle/huaweip50gold.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit..",
+  },
+  {
+    id: 5,
+    name: "Iphone 12 black",
+    systeme: "iphone",
+    price: 1500,
+    image: "src/assets/imgArticle/iphone_12_black.png",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit..",
+  },
+  {
+    id: 6,
+    name: "Iphone 12 violet",
+    systeme: "iphone",
+    price: 1600,
+    image: "src/assets/imgArticle/Iphone12violet.jpeg",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit..",
+  },
+  {
+    id: 7,
+    name: "IPhone 13 Green",
+    systeme: "iphone",
+    price: 1700,
+    image: "src/assets/imgArticle/iPhone13Green.jpeg",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit..",
+  },
+  {
+    id: 8,
+    name: "Iphone 13 white",
+    systeme: "iphone",
+    price: 1800,
+    image: "src/assets/imgArticle/appleiphone13white.jpg",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit..",
+  },
+];
+
+export default products;
